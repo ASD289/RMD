@@ -1,0 +1,13 @@
+Package: YAMLOpts
+Type: Package
+Title: Adjusts YAML header options in RMD
+Version: 0.1.0
+Author: Alise Dabdoub
+Maintainer: The package maintainer <adabdoub@hoganassessments.com>
+Description: This package contains functions to adjust the YAML header in RMD.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    rmarkdown,
+    xfun
